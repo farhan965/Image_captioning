@@ -1,2 +1,2 @@
 # Image Caption Generator
-  GOAL
+  #GOAL#
