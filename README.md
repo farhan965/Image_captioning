@@ -12,11 +12,11 @@ In simple words, goal is to build a model which takes image as input and outputs
 Steps followed for the algorithm implementaton
 1. Data Collection
 2. Data Cleaning
-3. Data integration
-4. Data Pre-processing of images
-5. Data Pre-processing of Captions
-6. Data Modelling
-7. Model Evaluation
+3. Data pre processing
+4. Feature Extraction
+6. Model Architecture
+7. Model Training
+8. Model Evaluation
 
 ## Model Implementation:
 
