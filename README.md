@@ -20,8 +20,7 @@ Steps followed for the algorithm implementaton
 
 ## Model Implementation:
 
-An embedding matrix is created from Glove embeddings and this will directly copied to the weight matrix of the neural network.
-The LSTM(Long Short Term Memory) layer is to process the sequence input text data.(partial captions in our case).
+The LSTM takes the image feature vector as input and generates a sequence of words as output. The input to the LSTM is typically pre-processed using an embedding layer, and the output is fed through a fully connected layer to generate the next word in the sequence
 
 ## Challenges/Limitations:
 
